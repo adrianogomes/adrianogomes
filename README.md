@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Adriano 👋
+
+- 🔭 I’m currently working on my TCC
+- 🌱 I’m currently learning Yii 2 and Bootstrap 5
+- ⚡ Fun fact: I have three cats 
 
 <!--
 **adriano-gomes-dev/adriano-gomes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
