@@ -13,11 +13,11 @@
 
 ### Linguagens e bibliotecas
 
-[![Skills] (https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,py,sklearn,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,py,sklearn)](https://skillicons.dev)
 
 ### Ferramentas
 
-[![Skills] (https://skillicons.dev/icons?i=vscode, github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
 
 
 ## Sobre mim
