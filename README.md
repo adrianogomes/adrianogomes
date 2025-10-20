@@ -1,4 +1,26 @@
-# Hi, I'm Adriano 👋
+# Olá, eu sou o Adriano 👋
+
+- Analista de Sistemas
+- Desenvolvedor Full-Stack
+- Mestrando em Engenharia de Software
+
+## :student: Formação
+
+- Especialista em Ciência de Dados na Administração Pública
+- Bacharel em Ciência da Computação
+
+## :rocket: Skills
+
+### Linguagens e bibliotecas
+
+[![Skills] (https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,py,sklearn,vscode)](https://skillicons.dev)
+
+### Ferramentas
+
+[![Skills] (https://skillicons.dev/icons?i=vscode, github)](https://skillicons.dev)
+
+
+## Sobre mim
 
 - 🔭 I’m currently working on my TCC
 - 🌱 I’m currently learning Yii 2 and Bootstrap 5
