@@ -5,9 +5,9 @@ Desenvolvedor Full-Stack | Analista de Sistemas | Mestrando em Engenharia de Sof
 
 ## Sobre mim
 
-- 🧑‍🎓 Sou mestrando em Engenharia de Software e pós-graduando em Engenharia de Software para Aplicações de Ciência de Dados
-- 🌱 Atualmente, desenvolvo meu TCC de especialização na implementação de uma ferramenta geração de testes unitários com o uso das LLMs
-- 🔭 Atualmente a minha pesquisa de mestrado é no uso de LLMs para análise de vulnerabilidades de código-fonte e outras artefatos de *software*
+- 🧑‍🎓 Sou mestrando em Engenharia de Software e pós-graduando em Engenharia de Software para Aplicações de Ciência de Dados.
+- 🌱 Atualmente desenvolvo meu TCC de especialização na implementação de uma ferramenta para geração de testes unitários com o uso de LLMs.
+- 🔭 Minha pesquisa de mestrado é focada no uso de LLMs para análise de vulnerabilidades de código-fonte e outros artefatos de *software*.
 - ⚡ Fun fact: Eu tenho três gatos 🐱🐱🐱
 
 ## :student: Formação
