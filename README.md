@@ -1,6 +1,6 @@
 # Olá, eu sou o Adriano 👋
 
-Desenvolvedor Full-Stack | Analista de Sistemas| Mestrando em Engenharia de Software
+Desenvolvedor Full-Stack | Analista de Sistemas | Mestrando em Engenharia de Software
 
 
 ## Sobre mim
