@@ -1,8 +1,14 @@
 # Olá, eu sou o Adriano 👋
 
-- Analista de Sistemas
-- Desenvolvedor Full-Stack
-- Mestrando em Engenharia de Software
+Desenvolvedor Full-Stack | Analista de Sistemas| Mestrando em Engenharia de Software
+
+
+## Sobre mim
+
+- 🔭 Atualmente a minha pesquisa de mestrado é no uso de LLMs para análise de vulnerabilidades de código-fonte e outras artefatos de sofwares
+- 🧑‍🎓 Sou mestrando em Engenharia de Software e pós-graduando em Engenharia de Software para Aplicações de Ciência de Dados
+- 🌱 Atualmente, desenvolvo meu TCC de especialização na implementação de uma ferramenta geração de testes unitários com o uso das LLMs
+- ⚡ Fun fact: Eu tenho três gatos 🐱🐱🐱
 
 ## :student: Formação
 
@@ -21,18 +27,14 @@
 
 ### Data science
 
-[![My Skills](https://skillicons.dev/icons?i=r,sklearn,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,mysql)](https://skillicons.dev)
 
 ### Ferramentas
 
 [![Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
 
 
-## Sobre mim
 
-- 🔭 I’m currently working on my TCC
-- 🌱 I’m currently learning Yii 2 and Bootstrap 5
-- ⚡ Fun fact: I have three cats 
 
 <!--
 **adriano-gomes-dev/adriano-gomes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
