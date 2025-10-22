@@ -11,9 +11,17 @@
 
 ## :rocket: Skills
 
-### Linguagens e bibliotecas
+### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,py,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)](https://skillicons.dev)
+
+### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=py,flask,php,java,c)](https://skillicons.dev)
+
+### Data science
+
+[![My Skills](https://skillicons.dev/icons?i=r,sklearn,mysql)](https://skillicons.dev)
 
 ### Ferramentas
 
